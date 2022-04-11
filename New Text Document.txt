@@ -1,0 +1,6 @@
+
+'sportive', 6
+'decathlon', 5
+'koton', 2
+'morhipo' 20
+lumberjack 4
